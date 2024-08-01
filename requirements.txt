@@ -1,0 +1,6 @@
+tensorflow
+deepspeech
+tacotron
+librosa
+scipy
+numpy
